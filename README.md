@@ -6,7 +6,7 @@ A modern desktop news application built with **Python** and **Tkinter** that all
 
 ## 📸 Screenshot
 
-!(Screenshot 2026-07-09 135450.png)
+
 
 ---
 
@@ -59,13 +59,13 @@ News-App/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/news-app.git
+git clone https://github.com/YOUR_USERNAME/NewsApp.git
 ```
 
 ### 2. Move into the project directory
 
 ```bash
-cd news-app
+cd NewsApp
 ```
 
 ### 3. Install the required packages

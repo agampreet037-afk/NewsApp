@@ -6,7 +6,7 @@ A modern desktop news application built with **Python** and **Tkinter** that all
 
 ## 📸 Screenshot
 
-
+![News App](screenshot.png)
 
 ---
 
